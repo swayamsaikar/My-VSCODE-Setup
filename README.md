@@ -125,8 +125,6 @@ foreach ($ext in $extensions) {
 ```
 ## Steps To Install these extensions
 ## for all windows Users
-1. Open Notepad and paste the above code
-2. save that file with the name :- **cj-vscodeinstall.ps1** 
-    (**Do not forget to write .ps1**)
-3. double click that file and it will run
+1.open windows powershell and paste the above code to download all the extensions
+
 
