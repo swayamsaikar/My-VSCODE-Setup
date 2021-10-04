@@ -38,6 +38,7 @@
     "screencastMode.mouseIndicatorSize": 30,
     "screencastMode.onlyKeyboardShortcuts": true,
     "window.zoomLevel": 1,
+    "window.titleBarStyle": "custom",
 }
 ```
 
